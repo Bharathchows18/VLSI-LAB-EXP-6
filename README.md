@@ -9,6 +9,7 @@ DATE:
 To create,simulate the design of CMOS inverter,NAND,NOR from schematic using cadence.
 
 **APPARATUS REQUIRED:**
+
 cadence
 
 PROCEDURE:
